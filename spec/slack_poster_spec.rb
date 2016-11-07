@@ -67,4 +67,12 @@ describe 'slack_poster' do
       end
     end
   end
+
+  context 'bad mood' do
+    let(:mood) { 'baadf00d' }
+
+    it 'emits a meaningful error' do
+      expect { slack_poster }.to raise_error(RuntimeError, /Bad mood: baadf00d/)
+    end
+  end
 end

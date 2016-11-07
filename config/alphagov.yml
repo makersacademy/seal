@@ -3,12 +3,14 @@
 core-formats:
   members:
     - binaryberry
-    - dsingleton
     - boffbowsh
     - fofr
     - gpeng
-    - tvararu
     - mgrassotti
+    - Rosa-Fox
+    - andrewgarner
+    - bevanloon
+    - tvararu
 
   channel:
     "#core-formats"
@@ -24,9 +26,8 @@ core-formats:
 
   quotes:
     - Everyone should have the opportunity to learn. Don’t be afraid to pick up stories on things you don’t understand and ask for help with them.
-    - Keep making puns, and when you do make sure to @benilovj.
     - We focus on users - always starting with ‘why’ we are doing something, not ‘what’ we are doing.
-    - If it’s gonna take more than 30 minutes, or it needs deploying - write a card for it and chat to Jen.
+    - If it’s gonna take more than 30 minutes, or it needs deploying - write a card for it and chat to Shilpa.
     - Try to pair when possible.
     - Pick up work from the 'ready column' - don't cherry pick from the backlog/ice box or ‘next’ column.
     - Any excuse for cake - or generally celebrating awesomeness
@@ -47,33 +48,16 @@ core-formats:
     - Keep our desks and work spaces tidy (including the tea stand)
     - Get involved with user research - everyone should spend 2 hours every 6 weeks learning about our users
 
-specialist-publisher:
-  members:
-    - benilovj
-    - christophwong
-    - danielroseman
-    - mathildathompson
-    - rgarner
-    - Rosa-Fox
-    - tahb
-
-  channel:
-    "#specialist-publisher"
-
-  exclude_titles:
-    - "[DO NOT MERGE]"
-    - WIP
-
 custom:
   members:
     - brenetic
     - davidbasalla
+    - deborahchua
     - emmabeynon
-    - h-lame
     - issyl0
     - jennyd
-    - klssmith
     - sihugh
+    - whoojemaflip
 
   channel:
     "#custom"
@@ -85,13 +69,13 @@ custom:
 
 finding-things:
   members:
-    - benhyland
-    - bishboria
+    - carolinegreen
+    - carvil
     - Davidslv
-    - jackscotti
+    - klssmith
     - MatMoore
     - mobaig
-    - rboulton
+    - rubenarakelyan
     - tijmenb
 
   channel:
@@ -99,6 +83,7 @@ finding-things:
 
   exclude_titles:
     - "[DO NOT MERGE]"
+    - "Don't merge"
     - DO NOT MERGE
     - WIP
 
@@ -130,21 +115,37 @@ tea:
     "#tea"
 
   quotes:
-    - "Gentle reminder to please empty the milk jug before the weekend! :rainbow:"
-    - "Time to be a tea-m player and take out the milk before the weekend! :facepalm:"
-    - "Good news, the weekend is starting. Bad news, YOU have to throw out the milk first."
-    - "We want YOU to empty the milk jug! http://georgiamidwife.org/wp-content/uploads/2015/07/We-want-you-image.png"
-    - "Let's avoid Monday cheese, and empty the milk jug now. :cheese:"
-    - "Hello beau-teas! Time to empty the milk jug, and go for a :beer:!"
-    - "Reminder of your du-tea to empty the milk jug before the weekend. Thank you!"
+    - "Tea ready at Corestum :rainbow:"
+    - "Tea ready at Corestum. Bon appé-tea! :baguette:"
+    - "Tea ready at Corestum. :tea:"
+    - "Tea ready at Corestum. :teapot:"
+    - "Tea ready at Corestum. :runner:"
+    - "Tea ready at Corestum. :postal_horn:"
+    - "Tea ready at Corestum. :confetti_ball:"
+    - "Tea ready at Corestum. :tada:"
+    - "Tea ready at Corestum. :gift:"
+    - "Tea ready at Corestum. :gift_heart:"
+    - "Tea ready at Corestum. :ribbon:"
+    - "Tea ready at Corestum. :hotsprings:"
+    - "Tea ready at Corestum. :corestum:"
+    - "Tea ready at Corestum. :happyseal:"
+    - "Tea ready at Corestum. :civilservant:"
+    - "Tea ready at Corestum. :govuk:"
+    - "Tea ready at Corestum. :informative_seal:"
+    - "Tea ready at Corestum. :nyan_cat:"
+    - "Tea ready at Corestum. :satisfied_seal:"
+    - "Tea ready at Corestum. :pikachu:"
+    - "Tea ready at Corestum. :shipit:"
+    - "Tea ready at Corestum. :ship:"
 
 publishing-platform:
   members:
     - danielroseman
-    - elliotcm
+    - kevindew
+    - cbaines
+    - carlosmartinez
     - steventux
     - dougdroper
-    - tuzz
 
   channel:
     "#publishing-platform"
@@ -161,12 +162,17 @@ publishing-platform:
     - ":eggplant:"
     - "http://s18.postimg.org/ryk1eup09/automotivator.jpg"
 
+  exclude_titles:
+    - "[DO NOT MERGE]"
+
 govuk-infrastructure:
   members:
     - alexmuller
     - deanwilson
+    - jonauman
     - rjw1
     - surminus
+    - djsd123
 
   channel:
     "#govuk-infrastructure"
@@ -184,12 +190,30 @@ govuk-infrastructure:
 
 servicemanual:
   members:
-    - AndrewVos
-    - thehenster
     - gemmaleigh
+    - thehenster
+    - 36degrees
 
   channel:
     "#servicemanual"
 
+  exclude_titles:
+    - "[DO NOT MERGE]"
+    - DO NOT MERGE
+    - WIP
+
+  exclude_repos:
+    - govuk_elements
+    - govuk_frontend_toolkit
+
   quotes:
-    - "hi"
+    - ":wave:"
+
+templateconsolidation:
+  members:
+    - nickcolley
+    - miaallers
+    - markhurrell
+
+  channel:
+    "#templateconsolidation"
